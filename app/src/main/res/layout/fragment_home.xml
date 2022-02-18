@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.home.HomeFragment">
+
+    <TextView
+        android:id="@+id/text_home"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Choose your Potion"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/God_of_war"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.25"
+                android:clickable="true"
+                android:focusable="true"
+                android:contentDescription="@string/strategyButton"
+                android:src="@drawable/strategy_theme" />
+
+            <ImageView
+                android:id="@+id/actionButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.25"
+                android:clickable="true"
+                android:focusable="true"
+                android:contentDescription="@string/actionButton"
+                android:src="@drawable/action_theme" />
+
+            <ImageView
+                android:id="@+id/rpgButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.25"
+                android:clickable="true"
+                android:focusable="true"
+                android:contentDescription="@string/rPGButton"
+                android:src="@drawable/rpg_theme" />
+
+            <ImageView
+                android:id="@+id/puzzleButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.25"
+                android:clickable="true"
+                android:focusable="true"
+                android:contentDescription="@string/puzzleButton"
+                android:src="@drawable/puzzle_theme" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/fpsButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.25"
+                android:clickable="true"
+                android:contentDescription="@string/fPSButton"
+                android:focusable="true"
+                android:src="@drawable/fps_theme" />
+
+            <ImageView
+                android:id="@+id/adventureButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.25"
+                android:clickable="true"
+                android:focusable="true"
+                android:contentDescription="@string/adventureButton"
+                android:src="@drawable/adventure_theme" />
+
+            <ImageView
+                android:id="@+id/sportsButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.25"
+                android:clickable="true"
+                android:focusable="true"
+                android:contentDescription="@string/sportsButton"
+                android:src="@drawable/sports_theme" />
+
+            <ImageView
+                android:id="@+id/survivalButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.25"
+                android:clickable="true"
+                android:focusable="true"
+                android:contentDescription="@string/survivalButton"
+                android:src="@drawable/survival_theme" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

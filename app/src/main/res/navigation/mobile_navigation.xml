@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.androproj.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_FPSFragment"
+            app:destination="@id/FPSFragment" />
+        <action
+            android:id="@+id/action_nav_home_to_puzzleFragment"
+            app:destination="@id/puzzleFragment" />
+        <action
+            android:id="@+id/action_nav_home_to_RPGFragment"
+            app:destination="@id/RPGFragment" />
+        <action
+            android:id="@+id/action_nav_home_to_sportsFragment"
+            app:destination="@id/sportsFragment" />
+        <action
+            android:id="@+id/action_nav_home_to_adventureFragment"
+            app:destination="@id/adventureFragment" />
+        <action
+            android:id="@+id/action_nav_home_to_survivalFragment"
+            app:destination="@id/survivalFragment" />
+        <action
+            android:id="@+id/action_nav_home_to_actionFragment"
+            app:destination="@id/actionFragment" />
+        <action
+            android:id="@+id/action_nav_home_to_strategyFragment"
+            app:destination="@id/strategyFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.androproj.ui.gallery.GalleryFragment"
+        android:label="@string/search"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.androproj.ui.slideshow.SlideshowFragment"
+        android:label="@string/log_out"
+        tools:layout="@layout/fragment_slideshow" >
+        <action
+            android:id="@+id/action_nav_slideshow_to_mainActivity"
+            app:destination="@id/mainActivity" />
+    </fragment>
+    <fragment
+        android:id="@+id/logoutFragment"
+        android:name="com.example.androproj.ui.LogoutFragment"
+        android:label="fragment_logout"
+        tools:layout="@layout/fragment_logout" />
+    <fragment
+        android:id="@+id/actionFragment"
+        android:name="com.example.androproj.genreFragments.ActionFragment"
+        android:label="fragment_action"
+        tools:layout="@layout/fragment_action" >
+        <action
+            android:id="@+id/action_actionFragment_to_currentGameFragment"
+            app:destination="@id/currentGameFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/adventureFragment"
+        android:name="com.example.androproj.genreFragments.AdventureFragment"
+        android:label="fragment_adventure"
+        tools:layout="@layout/fragment_adventure" >
+        <action
+            android:id="@+id/action_adventureFragment_to_currentGameFragment"
+            app:destination="@id/currentGameFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/FPSFragment"
+        android:name="com.example.androproj.genreFragments.FPSFragment"
+        android:label="fragment_f_p_s"
+        tools:layout="@layout/fragment_f_p_s" >
+        <action
+            android:id="@+id/action_FPSFragment_to_currentGameFragment"
+            app:destination="@id/currentGameFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/puzzleFragment"
+        android:name="com.example.androproj.genreFragments.PuzzleFragment"
+        android:label="fragment_puzzle"
+        tools:layout="@layout/fragment_puzzle" >
+        <action
+            android:id="@+id/action_puzzleFragment_to_currentGameFragment"
+            app:destination="@id/currentGameFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/RPGFragment"
+        android:name="com.example.androproj.genreFragments.RPGFragment"
+        android:label="fragment_r_p_g"
+        tools:layout="@layout/fragment_r_p_g" >
+        <action
+            android:id="@+id/action_RPGFragment_to_currentGameFragment"
+            app:destination="@id/currentGameFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/sportsFragment"
+        android:name="com.example.androproj.genreFragments.SportsFragment"
+        android:label="fragment_sports"
+        tools:layout="@layout/fragment_sports" >
+        <action
+            android:id="@+id/action_sportsFragment_to_currentGameFragment"
+            app:destination="@id/currentGameFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/strategyFragment"
+        android:name="com.example.androproj.genreFragments.StrategyFragment"
+        android:label="fragment_strategy"
+        tools:layout="@layout/fragment_strategy" >
+        <action
+            android:id="@+id/action_strategyFragment_to_currentGameFragment"
+            app:destination="@id/currentGameFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/survivalFragment"
+        android:name="com.example.androproj.genreFragments.SurvivalFragment"
+        android:label="fragment_survival"
+        tools:layout="@layout/fragment_survival" >
+        <action
+            android:id="@+id/action_survivalFragment_to_currentGameFragment"
+            app:destination="@id/currentGameFragment" />
+        <action
+            android:id="@+id/action_survivalFragment_to_currentGameFragment2"
+            app:destination="@id/currentGameFragment" />
+    </fragment>
+<!--    <fragment-->
+<!--        android:id="@+id/godOfWarFragment"-->
+<!--        android:name="com.example.androproj.gamesFragment.GodOfWarFragment"-->
+<!--        android:label="fragment_god_of_war"-->
+<!--        tools:layout="@layout/fragment_god_of_war" />-->
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.example.androproj.Activitys.MainActivity"
+        android:label="activity_main"
+        tools:layout="@layout/activity_main" />
+    <fragment
+        android:id="@+id/currentGameFragment"
+        android:name="com.example.androproj.gamesFragment.CurrentGameFragment"
+        android:label="fragment_current_game"
+        tools:layout="@layout/fragment_current_game" />
+
+</navigation>

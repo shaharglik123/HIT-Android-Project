@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry/app/src/main/res/layout/fragment_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy - Copy/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy - Copy/app/src/main/res/layout/activity_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy - Copy/app/src/main/res/layout/app_bar_user.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy - Copy/app/src/main/res/layout/content_user.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy - Copy/app/src/main/res/layout/fragment_action.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy - Copy/app/src/main/res/layout/fragment_adventure.xml" value="0.1171875" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy - Copy/app/src/main/res/layout/fragment_current_game.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy - Copy/app/src/main/res/layout/fragment_f_p_s.xml" value="0.1171875" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy - Copy/app/src/main/res/layout/fragment_gallery.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy - Copy/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy - Copy/app/src/main/res/layout/fragment_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy - Copy/app/src/main/res/layout/fragment_logout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy - Copy/app/src/main/res/layout/fragment_puzzle.xml" value="0.1171875" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy - Copy/app/src/main/res/layout/fragment_r_p_g.xml" value="0.1171875" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy - Copy/app/src/main/res/layout/fragment_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy - Copy/app/src/main/res/layout/fragment_sports.xml" value="0.1171875" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy - Copy/app/src/main/res/layout/fragment_strategy.xml" value="0.1171875" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy - Copy/app/src/main/res/layout/fragment_survival.xml" value="0.1171875" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy - Copy/app/src/main/res/layout/fragment_try.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy - Copy/app/src/main/res/menu/activity_user_drawer.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy/app/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy/app/src/main/res/layout/activity_user.xml" value="0.1171875" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy/app/src/main/res/layout/app_bar_user.xml" value="0.1171875" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy/app/src/main/res/layout/content_user.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy/app/src/main/res/layout/fragment_action.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy/app/src/main/res/layout/fragment_adventure.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy/app/src/main/res/layout/fragment_home.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy/app/src/main/res/layout/fragment_logout.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy/app/src/main/res/layout/fragment_puzzle.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy/app/src/main/res/layout/fragment_strategy.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy/app/src/main/res/layout/fragment_survival.xml" value="0.1171875" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy/app/src/main/res/layout/fragment_the_witness.xml" value="0.1171875" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy/app/src/main/res/layout/fragment_tomb_rider.xml" value="0.1171875" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy/app/src/main/res/menu/activity_user_drawer.xml" value="0.4" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy - Copy/app/src/main/res/menu/user.xml" value="0.1171875" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy/app/src/main/res/layout/fragment_escape_from_tarkov.xml" value="0.1171875" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy/app/src/main/res/layout/fragment_f_p_s.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy/app/src/main/res/layout/fragment_fallout76_steel_reign.xml" value="0.1" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy/app/src/main/res/layout/fragment_god_of_war.xml" value="0.1" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy/app/src/main/res/layout/fragment_r_p_g.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy/app/src/main/res/layout/fragment_scom2.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2) - Copy/app/src/main/res/layout/fragment_try.xml" value="0.1171875" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2)/app/src/main/res/layout/fragment_action.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2)/app/src/main/res/layout/fragment_adventure.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2)/app/src/main/res/layout/fragment_escape_from_tarkov.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2)/app/src/main/res/layout/fragment_f_p_s.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2)/app/src/main/res/layout/fragment_fallout76_steel_reign.xml" value="0.13027618551328818" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2)/app/src/main/res/layout/fragment_gallery.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2)/app/src/main/res/layout/fragment_god_of_war.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2)/app/src/main/res/layout/fragment_puzzle.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2)/app/src/main/res/layout/fragment_r_p_g.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2)/app/src/main/res/layout/fragment_rust.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2)/app/src/main/res/layout/fragment_scom2.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2)/app/src/main/res/layout/fragment_sports.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2)/app/src/main/res/layout/fragment_strategy.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2)/app/src/main/res/layout/fragment_survival.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2)/app/src/main/res/layout/fragment_the_witness.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2)/app/src/main/res/layout/fragment_tomb_rider.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy - Copy (2)/app/src/main/res/layout/fragment_ufc4.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy/app/src/main/res/drawable/action-genre_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy/app/src/main/res/layout/fragment_action.xml" value="0.25" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy/app/src/main/res/layout/fragment_god_of_war.xml" value="0.25" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy/app/src/main/res/layout/fragment_home.xml" value="0.13535911602209943" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy/app/src/main/res/layout/fragment_login.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy/app/src/main/res/layout/fragment_r_p_g.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3 - Copy/app/src/main/res/mipmap-anydpi-v26/action-genre.xml" value="0.13518518518518519" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3/app/src/main/res/layout/activity_user.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3/app/src/main/res/layout/content_user.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3/app/src/main/res/layout/fragment_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3/app/src/main/res/layout/fragment_register.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj - CopyTry3/app/src/main/res/layout/fragment_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj/app/src/main/res/layout/activity_main.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj/app/src/main/res/layout/fragment_first.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj/app/src/main/res/layout/fragment_login.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj/app/src/main/res/layout/fragment_ogin.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/shaha/AndroidStudioProjects/AndroProj/app/src/main/res/layout/fragment_register.xml" value="0.19270833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
